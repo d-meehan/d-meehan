@@ -4,7 +4,7 @@
 
 #### I'm a reformed advertising professional turned developer who loves building and problem solving, based in Auckland.
 
-- 🤖 Experience working in a start-up environment building AI-powered tools.
+- 🤖 Experience working in start-up environments building AI-powered tools.
   
 - 🔭 Working to make this readme more impressive by extending the lists below and making open source contributions.
   
