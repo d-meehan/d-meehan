@@ -8,7 +8,7 @@
   
 - 🔭 Currently building the future of business intelligence at [intriq](https://intriq.ai).
   
-- 🌱 Currently learning Frontend Web Development via [Full Stack open](https://fullstackopen.com/).
+- 🌱 Currently learning Frontend Web Development and JS-based Backend via [Full Stack open](https://fullstackopen.com/).
 
 ---
 ### :hammer_and_wrench: Languages and Tools:
@@ -33,6 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript", width="40", height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React", width="40", height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS", width="40", height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express", width="40", height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform", width="40", height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes", width="40", height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud", width="40", height="40"/>&nbsp;
